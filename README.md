@@ -284,9 +284,9 @@ SECRET=your_secret_key_anything_works
 1. Go to [Cloudinary](https://cloudinary.com/)
 2. Sign up (free)
 3. Dashboard → Copy:
-- Cloud Name → `CLOUD_NAME`
-- API Key → `CLOUD_API_KEY`
-- API Secret → `CLOUD_API_SECRET`
+    - Cloud Name → `CLOUD_NAME`
+    - API Key → `CLOUD_API_KEY`
+    - API Secret → `CLOUD_API_SECRET`
 
 #### 5️⃣ Get Mapbox Token
 
@@ -474,16 +474,16 @@ Reviews
    ```
 
 2. **Create Render Web Service**
-- Go to [Render Dashboard](https://dashboard.render.com/)
-- Click "New +" → "Web Service"
-- Connect your GitHub repo
-- Select `main` branch
+    - Go to [Render Dashboard](https://dashboard.render.com/)
+    - Click "New +" → "Web Service"
+    - Connect your GitHub repo
+    - Select `main` branch
 
 3. **Configure Service**
-- Name: Name it yourself
-- Build Command: `npm install`
-- Start Command: `node app.js`
-- Region: Singapore (or closest to you)
+    - Name: Name it yourself
+    - Build Command: `npm install`
+    - Start Command: `node app.js`
+    - Region: Singapore (or closest to you)
 
 4. **Add Environment Variables**
 ```
@@ -497,9 +497,9 @@ NODE_ENV=production
 ```
 
 5. **Deploy**
-- Click "Create Web Service"
-- Wait for build and deployment
-- Get your live URL (e.g., `https://mini-airbnb-rgoo.onrender.com`)
+    - Click "Create Web Service"
+    - Wait for build and deployment
+    - Get your live URL (e.g., `https://mini-airbnb-rgoo.onrender.com`)
 
 #### Auto-Deploy on Push
 Every push to `main` branch automatically redeploys the app.
@@ -579,9 +579,9 @@ git push origin feature/your-feature-name
 
 ### Abhinav Singhal
 - **📍 Location:** Dehradun, Uttarakhand, India
-- **📧 Email:** abhinavasinghal876@gmail.com
-- **💼 LinkedIn:** linkedin.com/in/abhinav-singhal-069a16250
-- **🐙 GitHub:** @singhal-876
+- **📧 Email:** [abhinavasinghal876@gmail.com](abhinavasinghal876@gmail.com)
+- **💼 LinkedIn:** [Abhinav Singhal](linkedin.com/in/abhinav-singhal-069a16250)
+- **🐙 GitHub:** [singhal-876](@singhal-876)
 
 ### Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
