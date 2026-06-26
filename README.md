@@ -579,7 +579,7 @@ git push origin feature/your-feature-name
 
 ### Abhinav Singhal
 - **📍 Location:** Dehradun, Uttarakhand, India
-- **📧 Email:** [abhinavasinghal876@gmail.com](mailto:abhinavasinghal876@gmail.com)
+- **📧 Email:** [abhinavsinghal876@gmail.com](mailto:abhinavsinghal876@gmail.com)
 - **💼 LinkedIn:** [Abhinav Singhal](https://www.linkedin.com/in/abhinav-singhal-069a16260)
 - **🐙 GitHub:** [singhal-876](https://github.com/singhal-876)
 
